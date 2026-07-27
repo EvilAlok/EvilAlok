@@ -1,3 +1,4 @@
+```python
 class EvilAlok:
     # You can contact me for any kind of help
     def __init__(self):
@@ -12,3 +13,6 @@ class EvilAlok:
         
 if __name__ == '__main__':
     me = EvilAlok()
+```
+
+
